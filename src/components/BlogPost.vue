@@ -34,7 +34,7 @@ import { kebabify, prettyDate } from '../helpers'
 export default {
   name: 'blog-post',
   resource: 'BlogPost',
-  components: { VueDisqus,VueAuthenticate },
+  components: { VueDisqus, VueAuthenticate },
   props: { post: String },
 
   data() {
