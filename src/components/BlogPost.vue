@@ -16,7 +16,7 @@
       <section class="post__body rte" v-html="content"></section>
 
       <footer class="post__footer">
-        <vue-disqus v-if="commentsReady" shortname="vue-blog-demo"
+        <vue-disqus v-if="commentsReady" shortname="disqus_hBLVgF86Wb"
           :key="post" :identifier="post" :url="`https://epic-goldberg-e82a14.netlify.com/read/${post}`"/>
       </footer>
     </article>
