@@ -16,7 +16,6 @@
       <section class="post__body rte" v-html="content"></section>
       
       <button @click="login()">Login</button>
-      <button @click="register()">Register</button>
 
       <footer class="post__footer">
         <vue-disqus v-if="commentsReady" shortname="disqus-demo-pro"
