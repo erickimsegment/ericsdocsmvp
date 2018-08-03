@@ -66,28 +66,28 @@
     "author": "Adjust Engineering",
     "id": "sit-amet-diam-in"
   }, {
-    "title": "sapien ut nunc",
-    "image": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/450744/robson-hatsukami-morgan.jpg",
+    "title": "Snowflake Computing Needs a Doc Makeover!",
+    "image": "https://www.stitchdata.com/blog/content/images/2018/04/snowflake-logo-world-tour.png",
     "published": "2017-03-10T21:11:06Z",
-    "author": "Derrik Yerrington",
+    "author": "The Snowflake Team",
     "id": "sapien-ut-nunc"
   }, {
-    "title": "ut massa quis augue",
-    "image": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/450744/tom-barrett.jpg",
+    "title": "CloudFlare Docs",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/Cloudflare_logo.svg/1200px-Cloudflare_logo.svg.png",
     "published": "2016-12-15T23:29:56Z",
-    "author": "Nathan Greave",
+    "author": "CloudFlare PM Team",
     "id": "ut-massa-quis-augue"
   }, {
-    "title": "lacinia eget tincidunt",
-    "image": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/450744/joshua-hibbert.jpg",
+    "title": "Twitter Rest API Documentation Assignment",
+    "image": "https://politicalfails.files.wordpress.com/2014/08/twitter-logo.png",
     "published": "2016-11-02T02:21:18Z",
-    "author": "Martha Bonde",
+    "author": "The Twitter Team",
     "id": "lacinia-eget-tincidunt"
   }, {
-    "title": "dolor quis",
-    "image": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/450744/maarten-van-den-heuvel.jpg",
+    "title": "Golang Community Needs Your Help on Docs!",
+    "image": "https://pilsniak.com/wp-content/uploads/2017/04/golang.jpg",
     "published": "2016-10-27T09:42:32Z",
-    "author": "Tommi Filipson",
+    "author": "Golang Project",
     "id": "dolor-quis"
   }]
 }
