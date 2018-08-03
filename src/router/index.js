@@ -1,7 +1,7 @@
 import Vue from 'vue'
 import Router from 'vue-router'
 import Blog from '../components'
-import About from '@/components/About'
+import About from '../components/About'
 
 Vue.use(Router)
 
