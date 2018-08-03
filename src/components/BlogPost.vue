@@ -35,6 +35,7 @@ export default {
   name: 'blog-post',
   resource: 'BlogPost',
   components: { VueDisqus },
+  components: { VueAuthenticate },
   props: { post: String },
 
   data() {
