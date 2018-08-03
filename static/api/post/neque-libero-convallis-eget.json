@@ -1,13 +1,13 @@
 {
   "results": [{
     "id": "sit-amet-erat",
-    "title": "Optimizely Node SDK Rewrite",
-    "content": "The Optimizely developer team could use some help in rewriting our node SDK documentation",
+    "title": "Doge API Rebuild",
+    "content": "The Doge community needs better documentation ASAP!",
     "image": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/450744/etienne-bosiger.jpg",
     "meta": {
-      "description": "Bounty - $100.00 USD",
+      "description": "Bounty - $500.00 USD",
       "published": "2017-09-09T22:11:56Z",
-      "author": "Mike Greene"
+      "author": "Doge Community Fund"
     }
   }]
 }
