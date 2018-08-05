@@ -1,10 +1,10 @@
 {
   "results": [{
-    "title": "DogeAPI Documentation",
-    "image": "https://cdn.instructables.com/FHB/YMZ2/IGSBKJTL/FHBYMZ2IGSBKJTL.LARGE.jpg",
+    "title": "Golang Community Needs Your Help on Docs!",
+    "image": "https://pilsniak.com/wp-content/uploads/2017/04/golang.jpg",
     "published": "2017-09-14T18:17:00Z",
-    "author": "Doge Community Org",
-    "id": "doge"
+    "author": "Golang Team",
+    "id": "golang"
   }, {
     "title": "Optimizely Node SDK Rewrite",
     "image": "http://www.delaconcorp.com/aus/wp-content/uploads/sites/7/2018/03/Optimizely-Resized.png",
@@ -84,10 +84,10 @@
     "author": "The Twitter Team",
     "id": "lacinia-eget-tincidunt"
   }, {
-    "title": "Golang Community Needs Your Help on Docs!",
+    "title": "BusterAPI",
     "image": "https://pilsniak.com/wp-content/uploads/2017/04/golang.jpg",
     "published": "2016-10-27T09:42:32Z",
-    "author": "Golang Project",
+    "author": "The Buster Team",
     "id": "dolor-quis"
   }]
 }
